@@ -16,3 +16,4 @@ An itsy bitsy patcher for sowm written in python
 
 - [ ] remove `sowm` directory if clonned before
 - [ ] add support for copying 2 or more patches.. currently broken
+- [ ] show patch description 
